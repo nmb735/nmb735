@@ -47,8 +47,6 @@
 <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="kicad" width="40" height="40"/> </a>
 <a href="https://www.altium.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Altium_Designer_Logo.png" alt="altium" width="40" height="40"/> </a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="40" height="40"/> </a>
-<a href="https://www.autodesk.com/products/eagle/overview" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/e/e7/Autodesk_Eagle_logo.png" alt="eagle" width="40" height="40"/> </a>
-<a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/KiCad.svg" alt="kicad" width="40" height="40"/> </a>
 <a href="https://www.intel.com/content/www/us/en/products/programmable/fpga/vhdl.html" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/vhdl-icon-512x512-0zi6d3zd.png" alt="vhdl" width="40" height="40"/> </a>
 <a href="https://ngspice.sourceforge.io/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/839168408490913792/ukNPeWwa_400x400.jpg" alt="spice" width="40" height="40"/> </a>
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReNMgSPHBMdeqbNGq1hloDX6LT-aJyzGmOAQ&s" alt="stm32" width="40" height="40"/> </a>
