@@ -1,9 +1,10 @@
 <h1 align="center">Hi👋🏾, I'm Nedal Benelmekki</h1>
-<h3 align="center">Firmware & Hardware Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nmb735&label=Profile%20views&color=0e75b6&style=flat" alt="nmb735" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmb735&show_icons=true&locale=en&layout=compact&theme=gotham" alt="nmb735" /></p>
+![Firmware&Hardware](https://github.com/nmb735/nmb735/blob/main/Nedal%20Benelmekki%20Electronic%20Engineer%20%26%20Computer%20Science%20Engineer%20%20Firmware%20%20Hardware.png)
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmb735&show_icons=true&locale=en&layout=compact&theme=gotham" alt="nmb735" /></p>
 
 ---
 
