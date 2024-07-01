@@ -10,7 +10,7 @@
 
 <h3 align="left">👨🏾‍💻 About Me:</h3>
 
-- 🌟 **From:** Spain  with Moroccan descent 🇲🇦
+- 🌟 **From:** Spain 🇪🇸 with Moroccan descent 🇲🇦
 - 🎓 **Currently studying:** Double Degree in Computer Science Engineering & Electronics at UAB
 - 💼 **Working at:** [Onalabs Inno-Hub](https://www.onalabs.com)
 - 🌏 **Past experiences:** Lived in Portugal 🇵🇹, Japan 🇯🇵, and Ireland 🇮🇪
