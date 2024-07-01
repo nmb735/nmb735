@@ -9,12 +9,10 @@
 
 <h3 align="left">👨‍💻 About Me:</h3>
 
-- 🌟 **From:** Spain 🇪🇸 with Moroccan descent 🇲🇦
+- 🌟 **From:** Spain  with Moroccan descent 🇲🇦
 - 🎓 **Currently studying:** Double Degree in Computer Science Engineering & Electronics at UAB
 - 💼 **Working at:** [Onalabs Inno-Hub](https://www.onalabs.com)
 - 🌏 **Past experiences:** Lived in Portugal 🇵🇹, Japan 🇯🇵, and Ireland 🇮🇪
-
----
 
 ---
 
@@ -22,7 +20,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/nedal-benelmekki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nedal-benelmekki" height="30" width="40" /></a>
 </p>
-
 
 ---
 
@@ -45,9 +42,18 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.autodesk.com/products/eagle/overview" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/ytc/AIdro_k0PX-rjirYWUlIJb9VirExih3WZORCbFVbS2X0yhR3D7o=s900-c-k-c0x00ffffff-no-rj" alt="eagle" width="40" height="40"/> </a>
+<a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="kicad" width="40" height="40"/> </a>
+<a href="https://www.altium.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Altium_Designer_Logo.png" alt="altium" width="40" height="40"/> </a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="40" height="40"/> </a>
+<a href="https://www.autodesk.com/products/eagle/overview" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/e/e7/Autodesk_Eagle_logo.png" alt="eagle" width="40" height="40"/> </a>
+<a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/KiCad.svg" alt="kicad" width="40" height="40"/> </a>
+<a href="https://www.intel.com/content/www/us/en/products/programmable/fpga/vhdl.html" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/vhdl-icon-512x512-0zi6d3zd.png" alt="vhdl" width="40" height="40"/> </a>
+<a href="https://ngspice.sourceforge.io/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/839168408490913792/ukNPeWwa_400x400.jpg" alt="spice" width="40" height="40"/> </a>
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReNMgSPHBMdeqbNGq1hloDX6LT-aJyzGmOAQ&s" alt="stm32" width="40" height="40"/> </a>
+<a href="https://www.gnuradio.org/" target="_blank" rel="noreferrer"> <img src="https://twiar.net/wp-content/uploads/2022/06/gnu-radio-logo.png" alt="SDR" width="40" height="40"/> </a> 
 </p>
-
 
 ---
 
