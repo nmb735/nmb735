@@ -7,6 +7,17 @@
 
 ---
 
+<h3 align="left">👨‍💻 About Me:</h3>
+
+- 🌟 **From:** Spain 🇪🇸 with Moroccan descent 🇲🇦
+- 🎓 **Currently studying:** Double Degree in Computer Science Engineering & Electronics at UAB 🎓
+- 💼 **Working at:** [Onalabs Inno-Hub](https://www.onalabs.com) 🚀
+- 🌏 **Past experiences:** Lived in Portugal 🇵🇹, Japan 🇯🇵, and Ireland 🇮🇪
+
+---
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nedal-benelmekki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nedal-benelmekki" height="30" width="40" /></a>
