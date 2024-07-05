@@ -79,8 +79,6 @@
 
 <h3 align="left">📈 GitHub Statistics:</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmb735" alt="nmb735" /></a> </p>
-
 <table>
   <tr>
     <td>
