@@ -12,7 +12,7 @@
 
 - 🌟 **From:** Spain 🇪🇸 with Moroccan descent 🇲🇦
 - 🎓 **Currently studying:** Double Degree in Computer Science Engineering & Electronics at UAB
-- 💼 **Working at:** [WIN Group - Department of Telecomunications and Systems Engineering, UAB](https://www.onalabs.com](https://win.uab.cat/)
+- 💼 **Working at:** [WIN Group - Department of Telecomunications and Systems Engineering, UAB](https://win.uab.cat/)
 - 🌏 **Past experiences:** Lived in Portugal 🇵🇹, Japan 🇯🇵, and Ireland 🇮🇪
 
 ---
